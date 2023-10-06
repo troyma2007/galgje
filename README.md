@@ -2,7 +2,7 @@
 
 ## Te raden woord
 
-|  |  |  | i | 
+| p |  | p | i | 
 
 |-|-|-|-|
 
