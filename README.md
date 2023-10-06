@@ -2,14 +2,14 @@
 
 ## Te raden woord
 
-| | | | | 
+|  |  |  | i | 
 
 |-|-|-|-|
 
 |1|2|3|4|
 
 ## Score
-![gallow](./images/2.png)
+![gallow](./images/3.png)
 
 ## Beurten
 * ik raad een w
