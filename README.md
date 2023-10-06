@@ -15,4 +15,4 @@
 * ik raad een w
 * ik raad een y (niet goed)
 * ik raad een i GOED
-* ik raad een r
+* ik raad een r ( FOUT)
