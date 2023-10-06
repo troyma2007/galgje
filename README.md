@@ -2,11 +2,11 @@
 
 ## Te raden woord
 
-| p |  | p | i | 
+| p | a | p | i | 
 
-|-|-|-|-|
+| -| -| -| -|
 
-|1|2|3|4|
+|1 | 2| 3| 4|
 
 ## Score
 ![gallow](./images/3.png)
