@@ -14,4 +14,4 @@
 ## Beurten
 * ik raad een w
 * ik raad een y (niet goed)
-* ik raad een i
+* ik raad een i GOED
