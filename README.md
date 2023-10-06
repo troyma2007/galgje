@@ -9,7 +9,7 @@
 |1|2|3|4|
 
 ## Score
-![gallow](./images/2.png)
+![gallow](./(3.png))
 
 ## Beurten
 * ik raad een w
